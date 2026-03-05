@@ -1,0 +1,13 @@
+plotly==5.24.1
+pandas
+numpy
+streamlit
+scikit-learn
+meteostat
+matplotlib  
+psutil  
+kneed 
+joblib
+seaborn  
+openpyxl
+python-dotenv

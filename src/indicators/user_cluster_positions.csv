@@ -1,0 +1,6 @@
+feature,feature_name_fr,user_value,position_percentile,cluster_id
+base_load,Charge nocturne (01h00-05h00),0.022911472602739725,-3.245282930083482,0
+mean_consumption_winter,Consommation moyenne hivernale (Déc-Fév),0.24267248871569708,-32.28704824363656,0
+mean_consumption_summer,Consommation moyenne estivale (Jun-Aoû),0.24158061365061084,22.100208509826167,0
+ratio_weekday_weekend,Ratio semaine/weekend,1.058232361522519,23.003460515775433,0
+ratio_day_night,Ratio jour/nuit,2.0676717249106153,47.200021234356804,0

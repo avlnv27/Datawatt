@@ -1,0 +1,31 @@
+body {
+    color: #FFFFFF;
+}
+.stApp {
+    color: #FFFFFF;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #FF0000;
+}
+.stRadio > label {
+    color: #FF0000;
+}
+.stSlider > label {
+    color: #FF0000;
+}
+.stDateInput > label {
+    color: #FF0000;
+}
+.stSelectbox > label {
+    color: #FF0000;
+}
+.stNumberInput > label {
+    color: #FF0000;
+}
+.stTextInput > label {
+    color: #FF0000;
+}
+.stFormSubmitButton > button {
+    background-color: #FF0000;
+    color: #FFFFFF;
+}
